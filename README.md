@@ -1,4 +1,4 @@
 # Myproject
-Elzero Git Coarse
+Elzero Git Course
 
 ##projectnotes
